@@ -53,7 +53,7 @@ function () {
         service: 'gmail',
         auth: {
           user: 'nguyenhung030910@gmail.com',
-          pass: 'kmjcgniymwkyecud'
+          pass: ''
         }
       });
       var handlebarOptions = {
